@@ -1,0 +1,6 @@
+﻿Telethon
+aiohttp
+edge-tts
+qrcode
+pyaes
+psutil
